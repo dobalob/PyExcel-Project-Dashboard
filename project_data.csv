@@ -1,0 +1,12 @@
+Project,Task,Manager,Start Date,Duration,Days completed,Budget,Actual
+Gemini,Task 1,Hirsch,17/02/2020,5,2,218000,97337
+Gemini,Task 2,Samora,17/02/2020,6,3,393000,177440
+Gemini,Task 3,McFay,18/02/2020,10,4,86000,31046
+Gemini,Task 4,Wood,21/02/2020,9,3,732000,261324
+Orion,Task 1,Hirsch,18/02/2020,7,7,293000,273001
+Orion,Task 2,Samora,17/02/2020,9,4,224000,57910
+Orion,Task 3,McFay,18/02/2020,8,0,978000,0
+Orion,Task 4,Wood,20/02/2020,7,3,932000,379157
+Vega,Task 1,Hirsch,17/02/2020,10,5,839000,406974
+Vega,Task 2,Samora,21/02/2020,5,4,729000,487139
+Vega,Task 3,McFay,24/02/2020,7,3,826000,298186
